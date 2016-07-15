@@ -12389,7 +12389,7 @@ footer section:last-child {
 .master-skills h1 {
     font-size: 60px;
     text-transform: uppercase;
-    color: #fff
+    color: #e64143;
 }
 
 .search-course {
@@ -16814,7 +16814,7 @@ a.cart-space:hover {
 
 .aboutus-page-bg,
 .bg-sitemap {
-    background-image: url(../images/banner/about-us.jpg)
+    background-image: url(../images/about-us.jpg)
 }
 
 .partner-page-bg {
